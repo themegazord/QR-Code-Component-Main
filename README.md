@@ -1,3 +1,5 @@
+# Link to the page: https://musical-pasca-c3db09.netlify.app
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
